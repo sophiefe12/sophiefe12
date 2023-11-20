@@ -9,23 +9,11 @@
             <p>Hello! I'm a motivated Computer Science and Business Technology Master student. I am passionate about the technology industry hoping to work in the fields. With a background in Business I enjoy learning new technologies, solving complex problems, and working in teams.</p>
         </section>
         <section id="skills">
-            <h2>Skills</h2>
-            <h3>Programming Languages</h3>
-        <ul>
-            <li>Python, Java Script, Java, SQL</li>
-        </ul>
-        <h3>Database</h3>
-        <ul>
-            <li>MySQl</li>
-        </ul>
-        <h3>Tools & Technologies</h3>
-        <ul>
-            <li>"Git", "Docker", "VS Code"</li>
-        </ul>
-        <h3>Soft Skills</h3>
-        <ul>
-            <li>Communication, teamwork, problem-solving, etc.</li>
-        </ul>
+        <h2>Skills</h2>
+        <p><strong>Programming Languages:</strong> Python, Java Script, Java, SQL</p>
+        <p><strong>Database:</strong> MySQL</p>
+        <p><strong>Tools & Technologies:</strong> "Git", "Docker", "VS Code", "Tableau"</p>
+        <p><strong>Soft Skills:</strong> Communication, teamwork, problem-solving</p>
     </section>
     <section id="projects">
         <h2>Projects</h2>
@@ -36,12 +24,6 @@
     </section>
     <section id="education">
         <h2>Education</h2>
-        <p><strong>Degree:</strong> Computer Science and Business Technology</p>
-        <p><strong>Degree:</strong> Business Administration</p>
+        <p><strong>Degree:</strong> Master in Computer Science and Business Technology</p>
+        <p><strong>Degree:</strong> Bachelor in Business Administration</p>
     </section>
-
-</body>
-</html>
-"""
-
-print(html_template)
