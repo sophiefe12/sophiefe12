@@ -12,7 +12,7 @@
         <h2>Skills</h2>
         <p><strong> 🖥️ Programming Languages:</strong> Python, Java Script, Java, SQL</p>
         <p><strong> 📊 Database:</strong> MySQL</p>
-        <p><strong> 🛠️ Tools & Technologies:</strong> "Git", "Docker", "VS Code", "Tableau"</p>
+        <p><strong> 🛠️ Tools & Technologies:</strong> "Git", "Docker", "VS Code", "Tableau", "Final Cut Pro"</p>
         <p><strong> 🤝 Soft Skills:</strong> Communication, teamwork, problem-solving</p>
     </section>
     <section id="📁 Projects">
