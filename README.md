@@ -6,7 +6,7 @@
     </header>
         <section id="about">
             <h2>About Me</h2>
-            <p>Hello! I'm a motivated Computer Science and Business Technology Master student. I am passionate about the technology industry hoping to work in the fields. With a background in Business I enjoy learning new technologies, solving complex problems, and working in teams.</p>
+            <p>Hello! I'm a motivated Computer Science and Business Technology Master student. I am passionate about the technology industry hoping to work in the fields. With a background in Business I enjoy learning about new technologies, solving complex problems, and working in teams.</p>
         </section>
         <section id="skills">
         <h2>Skills</h2>
