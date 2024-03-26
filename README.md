@@ -18,7 +18,7 @@
     <section id="📁 Projects">
         <h2>Projects</h2>
         <article>
-            <h3>my_first_repo</h3>
+            <h3>Capstone_Sophie</h3>
             repository or deployed project}</a></p>
         </article>
     </section>
