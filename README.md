@@ -19,7 +19,7 @@
         <h2>Projects</h2>
         <article>
             <h3>Capstone_Sophie</h3>
-            repository or deployed project}</a></p>
+             Integration Project during the second term of my masters</a></p>
         </article>
     </section>
     <section id="📚 Education">
