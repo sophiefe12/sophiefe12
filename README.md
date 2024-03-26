@@ -18,7 +18,7 @@
     <section id="📁 Projects">
         <h2>Projects</h2>
         <article>
-            <h3>Capstone_Sophie</h3>
+            <h3>Sophie_Capstone</h3>
              Integration Project during the second term of my masters</a></p>
         </article>
     </section>
